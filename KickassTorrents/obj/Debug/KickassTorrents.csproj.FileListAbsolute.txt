@@ -1,0 +1,9 @@
+C:\Working\C#\KickassTorrents\KickassTorrents\bin\Debug\KickassTorrents.exe.config
+C:\Working\C#\KickassTorrents\KickassTorrents\bin\Debug\KickassTorrents.exe
+C:\Working\C#\KickassTorrents\KickassTorrents\bin\Debug\KickassTorrents.pdb
+C:\Working\C#\KickassTorrents\KickassTorrents\obj\Debug\KickassTorrents.exe
+C:\Working\C#\KickassTorrents\KickassTorrents\obj\Debug\KickassTorrents.pdb
+C:\Working\C#\KickassTorrents\KickassTorrents\obj\Debug\KickassTorrents.csprojResolveAssemblyReference.cache
+C:\Working\C#\KickassTorrents\KickassTorrents\bin\Debug\HtmlAgilityPack.dll
+C:\Working\C#\KickassTorrents\KickassTorrents\bin\Debug\HtmlAgilityPack.pdb
+C:\Working\C#\KickassTorrents\KickassTorrents\bin\Debug\HtmlAgilityPack.xml
